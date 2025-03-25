@@ -1,23 +1,29 @@
 # Data-Analyst-Juhi Ali
-Project 1: Descriptive Analysis
+# 📊 Project 1: Descriptive Analysis
 <img width="680" alt="project1-ss" src="https://github.com/user-attachments/assets/d663e91d-4a0b-4db2-a2bf-cf8a221154e7" />
-Project Description: Descriptive Analysis using AWS Data Analytic Platform for The City of Vancouver
-Project Title: Operating Permit for water quality
-Project Objective: This project focuses on designing and implementing a Data Analytic Platform (DAP) for the City of Vancouver to support descriptive analysis. The goal is to process and analyze data using AWS cloud services
-Project Requirements
-# AWS-Based Data Analytic Platform
 
-## 📌 Project Description
-This project designs and implements a **cloud-based Data Analytic Platform (DAP)** using AWS services. The platform performs **descriptive data analysis** on Vancouver’s rental dataset, implementing the five-step process from ingestion to summarization.
+# 💧 Operating Permit for Water Quality  
+## 📊 Descriptive Analysis Using AWS Data Analytic Platform (DAP) – City of Vancouver
 
 ---
 
-## 🎯 Objectives
+## 📘 Project Description
 
-- Develop a scalable and cost-effective data analytics platform using AWS.
-- Perform descriptive analysis using a structured 5-step methodology.
-- Generate actionable insights from Vancouver housing data.
-- Document the implementation steps and estimate costs using AWS Pricing Calculator.
+This project focuses on the **design and implementation** of a **Data Analytic Platform (DAP)** using **Amazon Web Services (AWS)** to perform **descriptive analysis** on the **Operating Permit dataset related to water quality** from the City of Vancouver. The platform supports structured data ingestion, transformation, and querying to generate actionable insights for city officials, water quality teams, and compliance departments.
+
+---
+
+## 🎯 Project Objective
+
+- Design a **cloud-based data analytics platform** using AWS services  
+- Ingest and profile the **Operating Permit water quality dataset**  
+- Apply descriptive analytics to summarize key metrics  
+- Enable serverless, scalable analysis and reporting
+
+# AWS-Based Data Analytic Platform
+
+## 📌 Project Description
+This project designs and implements a **cloud-based Data Analytic Platform (DAP)** using AWS services. The platform performs **descriptive data analysis** on Vancouver’s operating permit dataset, implementing the five-step process from ingestion to summarization.
 
 ---
 
